@@ -1,12 +1,12 @@
 # ¡Hola! 👋 Soy Christopher
 
 ## 🌟 Sobre mí
-Soy un apasionado de la programación, actualmente me estoy especializando en JavaScript y sus frameworks, como Node.js, Angular y React. También estoy empezando a explorar Python. Me encanta aprender y crear proyectos que me desafíen.
+Soy un apasionado de la programación, actualmente me estoy especializando en JavaScript/Typescript y su Framework Next.JS. También estoy empezando a explorar Python. Me encanta aprender y crear proyectos que me desafíen.
 
 ## 🚀 Habilidades
 - **Lenguajes de programación:** JavaScript, Python (nivel inicial)
-- **Frameworks:** Node.js, Angular, React
-- **Áreas de interés:** Desarrollo web, creación de aplicaciones, aprendizaje continuo
+- **Frameworks:** Next.JS
+- **Áreas de interés:** Desarrollo web, creación de aplicaciones, aprendizaje continuo a otras tecnologias
 
 ## 🌱 Proyectos recientes
 Todavia no tengo uno en particular, he colaborado en ciertos proyectos por mi poca experiencia.
